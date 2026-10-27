@@ -1,2 +1,36 @@
-# HR-ANALYTICS-DASHBOARD-
-Aspiring Data Analyst | This repository contains my data analytics projects using MS Excel and Google Sheets, including data cleaning, data analysis, formulas, and interactive dashboards. Created to practice my skills and build my portfolio as a Data Analyst Fresher.
+# HR Analytics Dashboard 📊
+
+This project presents an interactive HR Analytics Dashboard created using Microsoft Excel to analyze employee data and generate meaningful HR insights.
+
+## Project Overview
+The dashboard provides a visual analysis of employee demographics, attrition, departments, education, job roles, age groups, and marital status.
+
+## Key Features
+- Total Employees and Current Employees
+- Employee Attrition Rate
+- Average Monthly Income and Average Age
+- Gender-wise Employee Distribution
+- Education-wise Attrition Analysis
+- Attrition by Job Role
+- Department-wise Attrition
+- Department-wise Age Analysis
+- Attrition by Marital Status
+- Interactive Department and Education Filters
+
+## Tools & Technologies
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers and Filters
+- Data Visualization
+
+## Project Objective
+To transform HR data into clear visual insights that help understand workforce distribution, identify employee attrition patterns, and support data-driven HR decisions.
+
+## Skills Demonstrated
+Data Cleaning, Data Analysis, Excel Dashboard Development, Pivot Tables, Data Visualization, and Reporting.
+
+This project is part of my Data Analyst portfolio and demonstrates my practical learning and skills in Microsoft Excel.
+
+**Created by:** Shubham Kumar  
+**Role:** Aspiring Data Analyst | Fresher
